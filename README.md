@@ -10,7 +10,7 @@
 <h3 align="center">🚀 Web Developer | Java Enthusiast | AI Explorer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Anshu+Kumar+Raj;A+Full-Stack+Developer+from+India;Loves+Java,+JavaScript,+React+and+AI+✨;Always+learning+new+tech+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Anshu+Kumar+Raj;A+Full-Stack+Developer+from+India;Loves+Java,+JavaScript,+React+and+AI+✨;Always+learning+new+tech+🚀"/>
 </p>
 
 ---
