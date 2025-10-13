@@ -11,8 +11,8 @@ Hey, I'm **Anshu Kumar Raj**! A code  ⚡️ transforming ideas into vibrant web
 - 🧑‍💻 **Code Sorcerer** conjuring full-stack web apps and AI-driven solutions
 - 🧠 Obsessed with **AI**, **ChatGPT**, and futuristic dashboards
 - 🗺️ Proudly showcasing Bihar’s culture through tech, from India
-- 📫 Reach me: [anshu@example.com] (update with your email!)
-- 🔗 Visit my [Portfolio/LinkedIn] (add your link here)
+- 📫 Reach me: [anshukhg0303gmail.com] (update with your email!)
+- 🔗 Visit my [LinkedIn] (https://www.linkedin.com/in/anshuman-singh-8baba8297/)
 
 ---
 
