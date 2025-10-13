@@ -1,106 +1,129 @@
-# 🌩️ Anshu Kumar Raj's Coding Universe🌩️
+<!--
+💫 Welcome to Anshu Kumar Raj's GitHub Profile
+-->
 
-![Code Cosmos Banner](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="250px">
+</div>
 
-Hey, I'm **Anshu Kumar Raj**! A code  ⚡️ transforming ideas into vibrant web apps with **JavaScript**, **React**, **Java**, and **AI magic**. From quizzes to e-commerce, I craft projects that shine using **Git** and **GitHub**. Buckle up and explore my neon-lit code universe! 🌈
+<h1 align="center">🌩️ Anshu Kumar Raj's Code Cosmos 🌩️</h1>
+<h3 align="center">🚀 Web Developer | Java Enthusiast | AI Explorer | Open Source Contributor</h3>
 
----
-
-## 🌟 About Me
-
-- 🧑‍💻 **Code Sorcerer** conjuring full-stack web apps and AI-driven solutions
-- 🧠 Obsessed with **AI**, **ChatGPT**, and futuristic dashboards
-- 🗺️ Proudly showcasing Bihar’s culture through tech, from India
-- 📫 Reach me: [anshukhg0303gmail.com] (update with your email!)
-- 🔗 Visit my [LinkedIn] (https://www.linkedin.com/in/anshuman-singh-8baba8297/)
-
----
-
-## 🛠️ My Neon Tech Stack
-
-| **Category**       | **Technologies**                          |
-|--------------------|-------------------------------------------|
-| **Languages**      | JavaScript 🌟, React ⚛️, Java ☕, HTML 🔖, CSS 🎨 |
-| **Tools**          | Git 🛠️, GitHub 🐙                        |
-| **Innovation**     | ChatGPT 🤖, AI-Powered Solutions 🚀       |
-| **Focus**          | Web Apps, Dashboards, E-Commerce, Quizzes |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Anshu+Kumar+Raj;A+Full-Stack+Developer+from+India;Loves+Java,+JavaScript,+React+and+AI+✨;Always+learning+new+tech+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 GitHub Stats Nebula
+## 🧑‍💻 About Me
 
-![Anshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshukhg2003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&hide=issues,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukhg2003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshukhg2003&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=00ff88)
-
----
-
-## 🏆 My Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=anshukhg2003&theme=radical&no-frame=true&margin-w=15&column=3)
-
----
-
-## 🚀 Stellar Projects
-
-### 🧠 **Brain-Quiz**
-- **Description**: A thrilling coding quiz app to challenge your programming prowess! 🎮
-- **Tech Stack**: Java ☕
-- **Status**: *Completed*
-- **Link**: [Brain-Quiz](https://github.com/anshukhg2003/Brain-Quiz)
-
-### ☕ **Java Project**
-- **Description**: A vibrant collection of Java projects exploring core concepts with flair. 📚
-- **Tech Stack**: Java ☕
-- **Status**: *In Progress*
-- **Link**: [Java_project](https://github.com/anshukhg2003/Java_project)
-
-### 🗺️ **Bihar Explore Tourism**
-- **Description**: A colorful webpage celebrating Bihar’s rich culture and landmarks. 🌄
-- **Tech Stack**: HTML 🔖, CSS 🎨
-- **Status**: *In Progress*
-- **Link**: [Bihar-Explore-Tourism](https://github.com/anshukhg2003/Bihar-Explore-Tourism)
-
-### 🛒 **NestMart**
-- **Description**: A sleek e-commerce page with a modern UI for seamless shopping. 🛍️
-- **Tech Stack**: HTML 🔖, CSS 🎨, JavaScript 🌟
-- **Status**: *In Progress*
-- **Link**: [NestMart](https://github.com/anshukhg2003/NestMart)
-
-### 📚 **E-Book Online Store**
-- **Description**: A responsive mini bookstore website with a clean, user-friendly design. 📖
-- **Tech Stack**: HTML 🔖, CSS 🎨, JavaScript 🌟
-- **Status**: *Completed*
-- **Link**: [E-Book-Online-Store-Website](https://github.com/anshukhg2003/E-Book-Online-Store-Website)
-
-### 💖 **Friendship Forever**
-- **Description**: A heartfelt webpage celebrating friendship with creative flair. 💞
-- **Tech Stack**: HTML 🔖, CSS 🎨
-- **Status**: *In Progress*
-- **Link**: [Friendship-Forever](https://github.com/anshukhg2003/Friendship-Forever)
+- 🌟 I’m a **Full-Stack Developer** passionate about crafting beautiful and efficient apps.  
+- 💡 I love exploring **AI**, **Machine Learning**, and **modern web frameworks**.  
+- 💼 Currently working on exciting web and Java-based projects.  
+- 🧠 Always eager to learn, improve, and share knowledge.  
+- 📍 From **Bihar, India** 🇮🇳  
+- 📫 Reach me: **[anshukhg2003@gmail.com](mailto:anshukhg2003@gmail.com)**  
+- 🌐 Portfolio: [Your Portfolio Link Here]  
+- 💼 LinkedIn: [linkedin.com/in/anshukhg2003](https://linkedin.com/in/anshukhg2003)
 
 ---
 
-## 📬 Connect in the Cosmos
+## 🛠️ Tech Stack
 
-- 📧 Email: [anshukhg0303gmail.com]
-- 🐦 X: [Your X Handle]
-- 💼 LinkedIn: [https://www.linkedin.com/in/anshuman-singh-8baba8297/]
-
----
-
-## 🌌 My Neon Badges
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![AI](https://img.shields.io/badge/-AI-FF6F61?logo=artificial-intelligence&logoColor=white&style=plastic)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white&style=plastic)
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
+| **Backend** | Java, Spring Boot, Node.js, Express |
+| **Database** | MySQL, MongoDB |
+| **Tools & Version Control** | Git, GitHub, VS Code, Eclipse |
+| **AI & Innovation** | ChatGPT, OpenAI API, TensorFlow basics |
 
 ---
 
-*Crafting code that lights up the digital sky. Let’s make the universe brighter together!* 🌠
+## 📈 GitHub Stats Universe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshukhg2003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshukhg2003&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=00ff88&sideNums=00ff88" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshukhg2003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="165px" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshukhg2003&theme=radical&no-frame=true&margin-w=15&column=4" alt="Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Brain-Quiz](https://github.com/anshukhg2003/Brain-Quiz)
+> Challenge your coding knowledge through this interactive Java quiz app!  
+**Tech Stack:** Java ☕  
+**Status:** ✅ Completed  
+
+### 🛒 [NestMart](https://github.com/anshukhg2003/NestMart)
+> A sleek and modern e-commerce platform with a smooth UI and responsive design.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Status:** 🚧 In Progress  
+
+### 🗺️ [Bihar Explore Tourism](https://github.com/anshukhg2003/Bihar-Explore-Tourism)
+> Explore Bihar’s heritage, history, and beauty through an interactive tourism webpage.  
+**Tech Stack:** HTML, CSS  
+**Status:** 🚧 In Progress  
+
+### 📚 [E-Book Online Store](https://github.com/anshukhg2003/E-Book-Online-Store-Website)
+> A responsive online store layout showcasing e-books beautifully.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Status:** ✅ Completed  
+
+---
+
+## 🧩 Skills & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI-FF6F61?logo=artificial-intelligence&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshukhg2003&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>
+
+---
+
+## 💬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:anshukhg2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/anshukhg2003"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/anshukhg2003"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+<p align="center">
+  <b>✨ "Coding is not just my skill, it's my art!" ✨</b>
+</p>
