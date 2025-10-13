@@ -4,9 +4,6 @@
 
 Hey, I'm **Anshu Kumar Raj**! A code  ⚡️ transforming ideas into vibrant web apps with **JavaScript**, **React**, **Java**, and **AI magic**. From quizzes to e-commerce, I craft projects that shine using **Git** and **GitHub**. Buckle up and explore my neon-lit code universe! 🌈
 
-> **"Code is like poetry; it’s all about expressing ideas beautifully."**  
-> Let’s write dazzling lines of code that spark joy and innovation! ✨
-
 ---
 
 ## 🌟 About Me
