@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🌟 I’m a **Full-Stack Developer** passionate about crafting beautiful and efficient apps.  
-- 💡 I love exploring **AI**, **Machine Learning**, and **modern web frameworks**.  
+- 💡 I love exploring **AI**, **Chatgpt**, and **modern web frameworks**.  
 - 💼 Currently working on exciting web and Java-based projects.  
 - 🧠 Always eager to learn, improve, and share knowledge.  
 - 📍 From **Bihar, India** 🇮🇳  
@@ -32,11 +32,11 @@
 
 | **Category** | **Technologies** |
 |---------------|------------------|
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
-| **Backend** | Java, Spring Boot, Node.js, Express |
-| **Database** | MySQL, MongoDB |
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap |
+| **Backend** | Java, Spring Boot|
+| **Database** | MySQL, MongoDB, JDBC |
 | **Tools & Version Control** | Git, GitHub, VS Code, Eclipse |
-| **AI & Innovation** | ChatGPT, OpenAI API, TensorFlow basics |
+| **AI & Innovation** | ChatGPT, OpenAI API |
 
 ---
 
