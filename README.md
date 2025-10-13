@@ -83,9 +83,9 @@ Hey, I'm **Anshu Kumar Raj**! A code  ⚡️ transforming ideas into vibrant web
 
 ## 📬 Connect in the Cosmos
 
-- 📧 Email: [anshu@example.com]
+- 📧 Email: [anshukhg0303gmail.com]
 - 🐦 X: [Your X Handle]
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: [https://www.linkedin.com/in/anshuman-singh-8baba8297/]
 
 ---
 
