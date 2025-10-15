@@ -68,6 +68,16 @@
 **Tech Stack:** Java ☕  
 **Status:** ✅ Completed  
 
+### 📚 [E-Book Online Store](https://github.com/anshukhg2003/E-Book-Online-Store-Website)
+> A responsive online store layout showcasing e-books beautifully.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Status:** ✅ 
+
+### 🍔 [TastyBite Online Food](https://github.com/anshukhg2003/Tastybiteonline)
+> A responsive Tastybite online food delivery beautifully website.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Status:** ✅ Completed
+
 ### 🛒 [NestMart](https://github.com/anshukhg2003/NestMart)
 > A sleek and modern e-commerce platform with a smooth UI and responsive design.  
 **Tech Stack:** HTML, CSS, JavaScript  
@@ -77,17 +87,6 @@
 > Explore Bihar’s heritage, history, and beauty through an interactive tourism webpage.  
 **Tech Stack:** HTML, CSS  
 **Status:** 🚧 In Progress  
-
-### 📚 [E-Book Online Store](https://github.com/anshukhg2003/E-Book-Online-Store-Website)
-> A responsive online store layout showcasing e-books beautifully.  
-**Tech Stack:** HTML, CSS, JavaScript  
-**Status:** ✅ 
-
-
-### 🍔 [TastyBite Online Food](https://github.com/anshukhg2003/Tastybiteonline)
-> A responsive Tastybite online food delivery beautifully website.  
-**Tech Stack:** HTML, CSS, JavaScript  
-**Status:** ✅ Completed
 
 
 
