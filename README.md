@@ -81,7 +81,15 @@
 ### 📚 [E-Book Online Store](https://github.com/anshukhg2003/E-Book-Online-Store-Website)
 > A responsive online store layout showcasing e-books beautifully.  
 **Tech Stack:** HTML, CSS, JavaScript  
-**Status:** ✅ Completed  
+**Status:** ✅ 
+
+
+### 🍔 [TastyBite Online Food](https://github.com/anshukhg2003/Tastybiteonline)
+> A responsive Tastybite online food delivery beautifully website.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Status:** ✅ Completed
+
+
 
 ---
 
