@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="250px">
 </div>
 
-<h1 align="center">🌩️ Anshu Kumar Raj's Code Universe 🌩️</h1>
+<h1 align="center">🌩️ Anshu Kumar Raj 
+  Code-Universe 🌩️</h1>
 <h3 align="center">🚀 Web Developer | Java Enthusiast | AI Explorer | Open Source Contributor</h3>
 
 <p align="center">
