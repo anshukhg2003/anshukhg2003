@@ -24,7 +24,7 @@
 - 🧠 Always eager to learn, improve, and share knowledge.  
 - 📍 From **Bihar, India** 🇮🇳  
 - 📫 Reach me: **[anshukhg2003@gmail.com](mailto:anshukhg2003@gmail.com)**  
-- 🌐 Portfolio: [Your Portfolio Link Here]  
+- 🌐 Portfolio: [https://anshukhg2003.github.io/MyPortfolio/]  
 - 💼 LinkedIn: [linkedin.com/in/anshukhg2003](https://linkedin.com/in/anshukhg2003)
 
 ---
